@@ -1,5 +1,8 @@
 # tmux-configuration
 I followed this blog post [https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/).
+I'm using MobaXterm and I still can't figure these out:
+* The mouse wheel scroll
+* Copying to system clipboard
 
 
 ## Use Ctrl+a as prefix key
