@@ -1,5 +1,5 @@
 # tmux-configuration
-I mostly followed this blog post [https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/).
+I followed this blog post [https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/).
 
 
 ## Use Ctrl+a as prefix key
