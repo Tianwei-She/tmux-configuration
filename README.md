@@ -3,6 +3,7 @@ I followed this blog post [https://www.hamvocke.com/blog/a-guide-to-customizing-
 I'm using MobaXterm and I still can't figure these out:
 * The mouse wheel scroll
 * Copying to system clipboard
+* New window in current directory
 
 
 ## Use Ctrl+a as prefix key
