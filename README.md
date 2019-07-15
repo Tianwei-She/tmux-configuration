@@ -58,3 +58,26 @@ setw -g pane-base-index 1
 set-option -g renumber-windows on
 ```
 
+## Reload the config file
+prefix :source-file /path/to/config/file
+
+# Other Environment Setup on New Clusters
+
+## Change the bash prompt
+```
+# In ~/.bashrc file, add the following line at the end
+PS1="\A \w> "
+# In the terminal, run the command:
+source ~/.bashrc
+```
+## Change up arrow for bash history search 
+```
+# Create a new ~/.inputrc file, add the following lines
+## arrow up
+"\e[A":history-search-backward
+## arrow down
+"\e[B":history-search-forward
+
+# In the terminal, run the command:
+bind -f  ~/.inputrc
+```
