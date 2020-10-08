@@ -86,3 +86,9 @@ In the terminal, run the command:
 ```
 bind -f  ~/.inputrc
 ```
+
+On Mac, create a new ~/.zshrc file, add the following lines
+```
+bindkey "^[[A" history-search-backward
+bindkey "^[[B" history-search-forward
+```
